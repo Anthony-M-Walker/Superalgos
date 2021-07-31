@@ -128,7 +128,7 @@ This creates the `Superalgos` folder in the current directory, which contains th
 
 **A.** After the Superalgos directory has been installed, the final step of installation is to set up the necessary node dependencies.
 
-**B.** In the same command prompt or terminal you just used, type the following command:
+**B.** In the same command prompt or terminal you just used, type the following command from within the Superalgos directory:
 
 ```
 node setup
